@@ -12,7 +12,8 @@ npm run dev
 ### apres le demarrage 
 apres le demarrage du projet click droit dans vscode sur
 le fichier index.html pour l'ouvrir dans votre navigateur 
-
+<br>
+</br>
 
 
 ### <p align="center">screen du rendu</p> 
